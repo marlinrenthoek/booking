@@ -321,7 +321,11 @@ body {
 }
 
 .video__btn {
-  padding: 25px 30px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px 25px;
+  padding-right: 20px;
+  padding-left: 30px;
   border: 3px solid #fff;
   border-radius: 50%;
   background-color: transparent;
@@ -329,6 +333,6 @@ body {
 }
 
 .video__icon {
-  width: 46px;
-  height: 53px;
+  width: 50px;
+  height: 56px;
 }
