@@ -147,7 +147,8 @@ body {
 .our-rooms__list {
   display: flex;
   justify-content: center;
-  margin: 0;
+  width: 1230px;
+  margin: 0 auto;
   padding: 0;
   flex-wrap: wrap;
   list-style: none;
@@ -335,4 +336,14 @@ body {
 .video__icon {
   width: 50px;
   height: 56px;
+}
+
+.from-the-guest {
+  padding-top: 110px
+}
+
+.from-the-guest__text {
+  width: 770px;
+  margin: 0 auto;
+  padding: 50px 35px;
 }
